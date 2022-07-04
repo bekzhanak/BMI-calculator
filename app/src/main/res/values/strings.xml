@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="kg_text">Kg</string>
+    <string name="weight_hint">0</string>
+    <string name="weight_text">Weight</string>
+    <string name="info_text">(normal range is 18.5 – 24.9)</string>
+    <string name="result_healthy">You are healthy</string>
+    <string name="button_text">Calculate</string>
+    <string name="height_text">Height</string>
+    <string name="cm_text">Cm</string>
+</resources>
